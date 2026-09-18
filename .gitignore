@@ -1,4 +1,4 @@
 data/
 *.csv
 *.parquet
-__pycache__/
+__pycache__/mkdir src
